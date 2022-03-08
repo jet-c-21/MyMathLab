@@ -5,5 +5,6 @@ Solving all Math Stuff in Code
 ```
 conda create --name math python=3.8 -y
 
+pip install ipykernel
 python -m ipykernel install --user --name math --display-name "Math"
 ```
