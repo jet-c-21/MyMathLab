@@ -7,12 +7,6 @@ Create Date: 2022/3/9
 import sympy as sp
 
 
-def reset_symbols():
-    global x, y, z, a, b, c, d, s, k, t
-    x, y, z = sp.symbols('x y z', real=True)
-    a, b, c, d, s, k, t = sp.symbols('a b c d s k t', real=True)
-
-
 def show_integral(itg_f):
     eq = sp.Eq(itg_f, itg_f.doit())
     return eq
