@@ -1,3 +1,6 @@
+# jupyter
+ipykernel
+
 # main pack
 sympy
 numpy

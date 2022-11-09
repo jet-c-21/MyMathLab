@@ -5,6 +5,7 @@ README.md.backup
 kite_tutorial.ipynb
 *.zip
 .DS_store
+kite_tutorial*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
