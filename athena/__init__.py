@@ -4,6 +4,7 @@ author: Jet Chien
 GitHub: https://github.com/jet-chien
 Create Date: 2022/3/11
 """
+import sympy as sp
 from .sympy_symbols import *
 from .ult import *
 from .integral import *
