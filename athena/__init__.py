@@ -9,3 +9,4 @@ from .sympy_symbols import *
 from .ult import *
 from .integral import *
 from .vector import *
+from .curve import *
