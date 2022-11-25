@@ -4,4 +4,5 @@ ipykernel
 # main pack
 sympy
 numpy
+scipy
 matplotlib
