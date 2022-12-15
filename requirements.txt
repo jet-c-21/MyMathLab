@@ -6,3 +6,4 @@ sympy
 numpy
 scipy
 matplotlib
+statsmodels
