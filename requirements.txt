@@ -4,6 +4,7 @@ ipykernel
 # main pack
 sympy
 numpy
+pandas
 scipy
 matplotlib
 statsmodels

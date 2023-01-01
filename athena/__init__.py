@@ -10,3 +10,4 @@ from .ult import *
 from .integral import *
 from .vector import *
 from .curve import *
+from .stats import *
